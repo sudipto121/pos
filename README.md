@@ -1,4 +1,4 @@
-<h1>POS in Laravel framework version 8</h1>
+<h1 align="center">POS in Laravel framework version 8</h1>
 
 ## About Laravel
 
