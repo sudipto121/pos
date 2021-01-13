@@ -1,6 +1,6 @@
 <h1 align="center">POS in Laravel framework version 8</h1>
 
-## Setup Projects
+## Setup Project
 Copy .env file and copy vendor folder from new Laravel Project.
 
 ## About Laravel
