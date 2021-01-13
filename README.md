@@ -1,5 +1,8 @@
 <h1 align="center">POS in Laravel framework version 8</h1>
 
+## Setup Projects
+Copy .env file and copy vendor folder from new Laravel Project.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
