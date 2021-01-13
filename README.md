@@ -1,3 +1,5 @@
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 <h1 align="center">POS in Laravel framework version 8</h1>
 
 ## Setup Project
